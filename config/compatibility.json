@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "revision": 2,
+  "entries": [
+    {
+      "contentId": "332a623401f2ec41bc924f0ce90d70b74cb36eb678ffa0b178fa8c832a8a827e",
+      "platform": "N64",
+      "backendSha256": "db0f420ebb65211b6e69223958d9100ba2e1e2fc0180a4ffc0239c573223003a",
+      "reason": "Mupen64Plus 2.6.0 official GPL demo; adapter probe rendered frames 10 and 60 at 640x480 and exited 0 on AMD Radeon RX 5600M/OpenGL.",
+      "display": {
+        "profile": "OriginalHardware",
+        "fullscreen": false,
+        "stretch": false,
+        "vsync": true,
+        "scale": 1
+      }
+    }
+  ]
+}

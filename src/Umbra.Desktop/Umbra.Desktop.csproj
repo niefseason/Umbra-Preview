@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0-windows</TargetFramework><OutputType>WinExe</OutputType><UseWPF>true</UseWPF><AssemblyName>Umbra</AssemblyName><ApplicationManifest>app.manifest</ApplicationManifest><ApplicationIcon>../../assets/umbra.ico</ApplicationIcon></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Umbra.Core/Umbra.Core.csproj"/><Content Include="../../config/*.json" Link="config/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" /><Content Include="../../licenses/*" Link="licenses/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>

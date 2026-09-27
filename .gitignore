@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+TestResults/
+artifacts/
+Preview/
+Umbra_Preview/
+*.user
+*.suo
+*.pdb

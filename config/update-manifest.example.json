@@ -1,0 +1,8 @@
+{
+  "channel": "stable",
+  "version": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
+  "installer": "Umbra-0.1.0-Windows-Setup.exe",
+  "sha256": "",
+  "notes": "Unsigned development preview. Populate only from the project release pipeline after review."
+}
